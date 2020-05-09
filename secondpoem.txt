@@ -3,3 +3,7 @@ This is another practice second poem
 Hello Poem
 
 I'm editing this secondpoem text file
+
+
+I'm adding colors now
+Red Green blue
